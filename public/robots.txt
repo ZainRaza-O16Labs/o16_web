@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://www.o16labs.com
+
+# Sitemaps
+Sitemap: https://www.o16labs.com/sitemap.xml
